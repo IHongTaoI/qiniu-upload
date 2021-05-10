@@ -1,0 +1,31 @@
+{
+  "name": "qiniu-upload",
+  "version": "1.0.0",
+  "description": "七牛上传工具",
+  "main": "index.js",
+  "bin": {
+    "qiniu-push": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IHongTaoI/qiniu-upload.git"
+  },
+  "keywords": [
+    "qiniu",
+    "qiniu upload",
+    "七牛上传"
+  ],
+  "author": "hongtao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IHongTaoI/qiniu-upload/issues"
+  },
+  "homepage": "https://github.com/IHongTaoI/qiniu-upload#readme",
+  "dependencies": {
+    "qiniu": "^7.3.2",
+    "walk-sync": "^2.2.0"
+  }
+}
