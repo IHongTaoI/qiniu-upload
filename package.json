@@ -1,5 +1,5 @@
 {
-  "name": "qiniu-upload",
+  "name": "qiniu-push",
   "version": "1.0.0",
   "description": "七牛上传工具",
   "main": "index.js",
